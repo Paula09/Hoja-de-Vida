@@ -1,0 +1,62 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.borde{
+	border: 1px solid black;
+	float: center;
+}
+body{
+	width: 100%;
+	margin: auto;
+	background: white;
+}
+.cabeza{
+	width: 100%;
+	height: 150px;
+	border: 1px solid black;
+	background: white;
+	float: left;
+}
+h1{
+	text-align: center;
+	margin-top: 50px;
+	margin-right: 44.30%;
+	float: right;
+}
+.eslogan{
+	width: auto;
+	height: auto;
+}
+.eslogan img{
+	width: 16%;
+	height: 100px;
+	margin-left: 35px;
+	margin-top: 8px;
+}
+.cuerpo{
+	width: 100%;
+	height: 750px;
+	border: 1px solid black;
+	background: white;
+	float: left;
+}
+.welcome{
+	width: 60%;
+	height: 550px;
+	margin-left: 45px;
+	margin-right: 65px;
+	margin-top: 150px;
+	border: 1px solid black;
+}
+.calendario{
+	width: 30%;
+	height: 350px;
+	border: 1px solid black;
+	float: left;
+	margin-right: 5px;
+	margin-top: 150px;
+	margin-left: 66.55%;
+}
+
